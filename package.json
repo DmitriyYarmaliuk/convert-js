@@ -6,8 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitriyYarmaliuk/convert-js"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitriyYarmaliuk/convert-js/issues"
+  },
+  "homepage": "https://github.com/DmitriyYarmaliuk/convert-js#readme",
   "dependencies": {
     "@the-/video-converter": "^15.4.14"
   }
